@@ -1,1 +1,42 @@
 In this folder i will revise the oops used in java as it has better memory management and better oops structure
+History of programming ->machine level :(0/1) directly excute ht cpu and mor it is prone to errror and very tideous and not scalable
+=============
+Assembly level language->use nemonic and use enlgish word and use register and mor prone to error register mistmacth and vey less scalable
+it is alos tideous and it is old language
+=============
+procedural programming :functions ,loops, blocks ,if else except large scale enterprise applications do this and then do this ex:c programming
+not enough to solve complex problems it not highly usable and not reusable
+=============
+oops programming:real world modelling is missing in procedural ,data security , highly scalable and reusable application banane ke liye
+uber clone,amazon clone,razorpay clone as every thing is object interact with each other we have to bring this inn problem
+object->characteristics:unique identifier, and behavior:functions , methods  ->
+==============
+car->engine,brand,colors,model,wheels
+behavior-start,stop,gear,break,accelerate
+concept of classes->all functions
+real life modelling ->Owner ->owns the car both are objects and objects interact with each other
+->start(),stop(),gearShift()->methods ->String brand,model,boolean
+================
+Pillar of OOPS:
+Abstraction:
+Abstractions hides unnecessary data from a client and showcase only  what is necessary
+interface to interact with objects as objects are hidden
+Abstactions.java
+============================================================
+Encapsulation:
+car->character&behavior->in a capsule all in one
+objects->ek hi saath ek hi box mein hona chahiye
+class Car{
+//variables->characters
+//methods->behavior
+}
+data security : very important about secure data and it is different that data hiding aise methods if objects know mey cause thread
+//autometer change cannot be change in car
+speed cannot be set in starting
+it shoule be secure->some variable cannot be accessed by objects solved using access modifiers
+//use getter and setter fo accessing private methods in a class for validations of any method
+============================================================
+Inheritance:
+============================================================
+Polymorphism:
+============================================================
