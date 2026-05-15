@@ -1,1 +1,1 @@
-In this folder i will revise the oops used in c++ 
+In this folder i will revise the oops used in java as it has better memory management and better oops structure
