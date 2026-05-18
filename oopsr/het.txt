@@ -44,5 +44,11 @@ Manual->current gear,shift gear extra
 Electric->BatteryPercentage, ChargeBattery extra specific to their its object
 
 ============================================================
-Polymorphism:
+Polymorphism:Many Forms
+Animl parent class: Duck Human Tiger
+run()
+different stimulus have different behaviour and
+Human
+Dynamic Polymorphism : method overriding
+Static Polymorphism:method overloading
 ============================================================
