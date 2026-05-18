@@ -37,6 +37,12 @@ it shoule be secure->some variable cannot be accessed by objects solved using ac
 //use getter and setter fo accessing private methods in a class for validations of any method
 ============================================================
 Inheritance:
+parent child relationship
+car:parent->Child:Manual car && Electric Car
+characters:brand , model, isEngineOn , currentSpeed,start Engine,Stop Engine,accelerate , break()
+Manual->current gear,shift gear extra
+Electric->BatteryPercentage, ChargeBattery extra specific to their its object
+
 ============================================================
 Polymorphism:
 ============================================================
