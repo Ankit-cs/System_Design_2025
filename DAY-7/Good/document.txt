@@ -1,4 +1,0 @@
-Hello World!
-[Font: Bold] This is a font styled line.
-	Indented text after a tab space
-[Image: picture.jpg]
