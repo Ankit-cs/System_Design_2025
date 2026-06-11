@@ -4,12 +4,15 @@ public class DeliveryOrder extends Order{
     private String usersAddress;
 
     public DeliveryOrder(){
-        usersAdress="";
+        usersAddress="";
     }
 
     public void setAddress(String add){
         usersAddress=add;
     }
+
+    // alias used by factories
+    public void setUserAddress(String add){ usersAddress = add; }
 
     public String getUsersAddress(){
         return usersAddress;

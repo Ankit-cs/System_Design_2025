@@ -8,7 +8,7 @@ public class Restaurant{
     private String name;
     private String location;
     private List<MenuItem>menu=new ArrayList<>();
-    public Restaurant(String name,String locations){
+    public Restaurant(String name,String location){
         this.name=name;
         this.location=location;
         this.restaurantId=nextRestaurantId++;

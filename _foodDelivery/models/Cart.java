@@ -10,10 +10,10 @@ public class Cart{
     public Cart(){
         restaurant=null;
     }
-    public void addItems(MenuItem item){
+    public void addItem(MenuItem item){
         if(restaurant==null){
-            System.out.println("Card:Set a restaurant before adding to a cart");
-            return
+            System.out.println("Cart: Set a restaurant before adding to a cart");
+            return;
         }
         items.add(item);
     }

@@ -15,16 +15,16 @@ public class MenuItem{
     public void setCode(String c){
         code=c;
     }
-        public String getname(){
+    public String getName(){
         return name;
     }
-    public void setname(String n){
+    public void setName(String n){
         name=n;
     }
-    public double getprice(){
+    public double getPrice(){
         return price;
     }
-    public void setprice(double p){
+    public void setPrice(double p){
         price=p;
     }
     
