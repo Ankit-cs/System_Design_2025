@@ -1,7 +1,7 @@
 package factories;
 
-import java.utils.List;
-import model.*;
+import java.util.List;
+import models.*;
 import strategies.*;
 
 public interface OrderFactory{
